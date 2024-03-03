@@ -1,0 +1,181 @@
+{
+    "song_title": "Teri Jhuki Nazar",
+    "movie_name": "Murder 3",
+    "lyrics": [
+        {
+            "start_time": "00:29.80",
+            "end_time": "00:33.85",
+            "hinglish_lyrics": "Chaahe kuch na kehna"
+        },
+        {
+            "start_time": "00:33.55",
+            "end_time": "00:37.85",
+            "hinglish_lyrics": "Bhale chup tu rehna"
+        },
+        {
+            "start_time": "00:37.55",
+            "end_time": "00:45.60",
+            "hinglish_lyrics": "Mujhe hai pata, tere pyar ka"
+        },
+        {
+            "start_time": "00:45.30",
+            "end_time": "00:53.36",
+            "hinglish_lyrics": "Khamosh chehra, ankhon pe pehra"
+        },
+        {
+            "start_time": "00:53.06",
+            "end_time": "01:0.86",
+            "hinglish_lyrics": "Khud hai gawaah, tere pyar ka"
+        },
+        {
+            "start_time": "01:0.56",
+            "end_time": "01:4.85",
+            "hinglish_lyrics": "Teri jhuki nazar, teri har ada"
+        },
+        {
+            "start_time": "01:4.55",
+            "end_time": "01:8.60",
+            "hinglish_lyrics": "Mujhe keh rahi hai ye dastaan"
+        },
+        {
+            "start_time": "01:8.30",
+            "end_time": "01:12.60",
+            "hinglish_lyrics": "Koi shaqs hai jo ki in dinon"
+        },
+        {
+            "start_time": "01:12.30",
+            "end_time": "01:16.10",
+            "hinglish_lyrics": "Tere zehan-o-dil pe hai chha gaya"
+        },
+        {
+            "start_time": "01:15.80",
+            "end_time": "01:20.09",
+            "hinglish_lyrics": "Teri jhuki nazar, teri har ada"
+        },
+        {
+            "start_time": "01:19.79",
+            "end_time": "01:50.82",
+            "hinglish_lyrics": "Mujhe keh rahi hai ye dastaan"
+        },
+        {
+            "start_time": "01:50.52",
+            "end_time": "01:58.34",
+            "hinglish_lyrics": "Teri zulf jab bhi bikhar jaati hai"
+        },
+        {
+            "start_time": "01:58.04",
+            "end_time": "02:6.09",
+            "hinglish_lyrics": "Aye haseen tu haseen aur ho jaati hai"
+        },
+        {
+            "start_time": "02:5.79",
+            "end_time": "02:13.83",
+            "hinglish_lyrics": "Jo kitaabo me padhte rahe aaj tak"
+        },
+        {
+            "start_time": "02:13.53",
+            "end_time": "02:21.34",
+            "hinglish_lyrics": "Woh pari humko tujh mein nazar aati hai"
+        },
+        {
+            "start_time": "02:21.04",
+            "end_time": "02:25.58",
+            "hinglish_lyrics": "Teri hi baahon mein, panaahon mein"
+        },
+        {
+            "start_time": "02:25.28",
+            "end_time": "02:29.33",
+            "hinglish_lyrics": "Rehna mujhe hardum sada"
+        },
+        {
+            "start_time": "02:29.03",
+            "end_time": "02:33.09",
+            "hinglish_lyrics": "Teri hi yaadon mein, nigaahon mein"
+        },
+        {
+            "start_time": "02:32.79",
+            "end_time": "02:37.08",
+            "hinglish_lyrics": "Rehna mujhe har dum sada"
+        },
+        {
+            "start_time": "02:36.78",
+            "end_time": "02:40.83",
+            "hinglish_lyrics": "Teri hi baahon me, panaahon me"
+        },
+        {
+            "start_time": "02:40.53",
+            "end_time": "02:48.83",
+            "hinglish_lyrics": "Rehna mujhe hardum sada"
+        },
+        {
+            "start_time": "02:48.53",
+            "end_time": "03:6.34",
+            "hinglish_lyrics": "Hardum sada"
+        },
+        {
+            "start_time": "03:6.04",
+            "end_time": "03:9.83",
+            "hinglish_lyrics": "Chaahe kuch na kehna"
+        },
+        {
+            "start_time": "03:9.53",
+            "end_time": "03:13.59",
+            "hinglish_lyrics": "Bhale chup tu rehna"
+        },
+        {
+            "start_time": "03:13.29",
+            "end_time": "03:21.07",
+            "hinglish_lyrics": "Mujhe hai pata tere pyar ka"
+        },
+        {
+            "start_time": "03:20.77",
+            "end_time": "03:28.82",
+            "hinglish_lyrics": "Khamosh chehra, aankhon pe pehra"
+        },
+        {
+            "start_time": "03:28.52",
+            "end_time": "03:36.33",
+            "hinglish_lyrics": "Khud hai gawaah, tere pyar ka"
+        },
+        {
+            "start_time": "03:36.03",
+            "end_time": "03:40.32",
+            "hinglish_lyrics": "Teri jhuki nazar, teri har ada"
+        },
+        {
+            "start_time": "03:40.02",
+            "end_time": "03:44.08",
+            "hinglish_lyrics": "Mujhe keh rahi hai ye dastaan"
+        },
+        {
+            "start_time": "03:43.78",
+            "end_time": "03:47.82",
+            "hinglish_lyrics": "Koi shaqs hai jo ki in dinon"
+        },
+        {
+            "start_time": "03:47.52",
+            "end_time": "03:51.82",
+            "hinglish_lyrics": "Tere zehan-o-dil pe hai chha gaya"
+        },
+        {
+            "start_time": "03:51.52",
+            "end_time": "03:55.58",
+            "hinglish_lyrics": "Teri jhuki nazar, teri har ada"
+        },
+        {
+            "start_time": "03:55.28",
+            "end_time": "04:30.82",
+            "hinglish_lyrics": "Mujhe keh rahi hai ye dastaan"
+        },
+        {
+            "start_time": "04:30.52",
+            "end_time": "04:33.56",
+            "hinglish_lyrics": "Written by:"
+        },
+        {
+            "start_time": "04:33.26",
+            "end_time": "04:34.06",
+            "hinglish_lyrics": "Sayeed Quadri"
+        }
+    ]
+}
